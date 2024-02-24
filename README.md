@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Full-Stack Java & React Developer.
+- 🤔 &nbsp; Full-Stack Java & React Developer and Application Support.
 - 🎓 &nbsp; Studied Master Of Information Technology from Central Queensland University Australia.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
